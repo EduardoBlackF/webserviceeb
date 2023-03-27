@@ -6,6 +6,7 @@ APP_URL=postgres://s2webeb_user:GTiaVCP8o1D33gIqEN6ctmQsusMFEauP@dpg-cggrm3g2qv2
 
 LOG_CHANNEL=stack
 
+DATABASE_URL=postgres://s2webeb_user:GTiaVCP8o1D33gIqEN6ctmQsusMFEauP@dpg-cggrm3g2qv28tc5ogga0-a/s2webeb
 DB_CONNECTION=pgsql
 DB_HOST=localhost
 DB_PORT=5432
